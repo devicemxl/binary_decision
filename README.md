@@ -35,8 +35,15 @@ Aditional Data And Furter Reading:
       - https://datos.nexos.com.mx/la-sierra-tarahumara-epicentro-del-suicidio-en-mexico/#_ftn2
 6. Local Spatial Autocorrelation (tecnica de Tarahumaras)
       - https://geographicdata.science/book/notebooks/07_local_autocorrelation.html
+  
 
+<!--
+https://www.erim.eur.nl/fileadmin/centre_content/necessary_condition_analysis/Supplementary_Material_NCA_and_regression_20210604.pdf
+https://bookdown.org/ncabook/advanced_nca2/miscellaneous.html#nca-software
+https://www.erim.eur.nl/fileadmin/user_upload/_generated_/download/Quick_Start_Guide_NCA_3.1.0_March_2__2021.pdf
+!-->
 <br>
+
 
     Exercise Proposed & published by:
     Min Li, Amy Mickel, and Stanley Taylor
