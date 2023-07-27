@@ -17,8 +17,8 @@ For this case-study assignment, students assume the role of loan officer at a ba
 |----|----|----|----|
 | **Project Setup** | Project proposal, High level planning | [Project Proposal]()  <br>  | [high level planning docs]() <br> |
 | **Data Adquisition** | Data Adquisition, Inspection of the structure and EDA | [Primary Data Report]() | [Data Understanding]() <br> [Data Preprocess]() <br> [EDA: Univariate]() <br> [EDA: Bivariate]() <br> [EDA: Multivariate]() |
-| **Feature Engineering** | Data Imputation, Data Enrichment & Feature Engineering |  [Data for Model Report]()   | [Data Imputation: Geographic Data]() <br> [Data Enrichment: Recession]() <br> [Feature Engineering]() <br> |
-| **Models** | Exploration of diverse data models | [Insights]() <br> | [Principal Factor Analysis]() <br> [Support Vector Machines]() <br> [Logistic]() <br> [Clusterings]() <br> [Random Trees]() <br> [Bayesian]() <br> |
+| **Feature Engineering** | Data Imputation, Data Enrichment & Feature Engineering |  [Data for Model Report]()   | [Data Imputation: Geographic Data]() <br> [Data Enrichment: Recession]() <br> [Qualitative analysis]() <br> [Feature Engineering]() <br> |
+| **Models** | Exploration of diverse data models | [Insights]() <br> | [Principal Factor Analysis]() <br> [Support Vector Machines]() <br> [Logistic]() <br> [Clusterings]() <br> [Random Trees]() <br> [Bayesian]() <br> [Necessary Condition Analysis]() |
 
 <br>
 <br>
