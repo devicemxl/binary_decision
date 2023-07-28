@@ -18,7 +18,7 @@ For this case-study assignment, students assume the role of loan officer at a ba
 | **[Project Setup]()** | Project proposal and High level planning | - Project Proposal  | - High level planning docs |
 | **[ETL I](https://github.com/devicemxl/binary_decision/blob/raiz/wrangling.md)** | Data Adquisition, Inspection of the structure and EDA | Primary Data Report <br> Tableau: EDA Insights | - Data Understanding <br> - Conceptualization as Database <br> - Data Preprocess <br> - EDA: Univariate <br> - EDA: Bivariate <br> - EDA: Multivariate |
 | **[ETL II]()** | Data Imputation, Data Enrichment & Feature Engineering |  Qualitative Report <br> Tableau: Primary Insights | - Data Imputation: Geographic Data <br> - Data Enrichment: Recession <br> - Feature Engineering <br> - Interpretable Rules: Bayesian Networks|
-| [**Models**]() | Exploration of diverse data models | Conceptual Web App <br> Final Report | - Principal Factor Analysis <br> - Support Vector Machines <br> - Logistic <br> - Clusterings <br> - Random Forest <br> - Necessary Condition Analysis |
+| [**Models**]() | Exploration of diverse data models | Conceptual Web App <br> Final Report | - Factor Analysis <br> - Support Vector Machines <br> - Logistic <br> - Clusterings <br> - Random Forest <br> - Necessary Condition Analysis |
 
 <!--
 Extraction of interpretable rules through Bayesian networks
