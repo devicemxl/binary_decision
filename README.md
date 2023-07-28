@@ -39,6 +39,9 @@ Aditional Data And Furter Reading:
       - https://datos.nexos.com.mx/la-sierra-tarahumara-epicentro-del-suicidio-en-mexico/#_ftn2
 6. Local Spatial Autocorrelation (tecnica de Tarahumaras)
       - https://geographicdata.science/book/notebooks/07_local_autocorrelation.html
+7. https://www.slideshare.net/POOJAPATIL211/should-this-loan-be-approved-or-denied
+8. https://saturncloud.io/blog/evaluating-logistic-regression-with-crossvalidation/
+9. https://github.com/stelladeecoder/sba_dataset/blob/main/sba.ipynb
   
 
 <!--
