@@ -40,8 +40,12 @@ Aditional Data And Furter Reading:
 6. Local Spatial Autocorrelation (tecnica de Tarahumaras)
       - https://geographicdata.science/book/notebooks/07_local_autocorrelation.html
 7. https://www.slideshare.net/POOJAPATIL211/should-this-loan-be-approved-or-denied
-8. https://saturncloud.io/blog/evaluating-logistic-regression-with-crossvalidation/
-9. https://github.com/stelladeecoder/sba_dataset/blob/main/sba.ipynb
+8. https://www.sciencedirect.com/science/article/abs/pii/S0020025515002960
+9. https://analyticsindiamag.com/a-guide-to-inferencing-with-bayesian-network-in-python/
+10. https://github.com/hayesall/bn-rule-extraction
+11. https://starling.utdallas.edu/papers/QuaKE/#fn:3
+12. https://saturncloud.io/blog/evaluating-logistic-regression-with-crossvalidation/
+13. https://github.com/stelladeecoder/sba_dataset/blob/main/sba.ipynb
   
 
 <!--
