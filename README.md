@@ -43,7 +43,7 @@ Aditional Data And Furter Reading:
 8. https://www.sciencedirect.com/science/article/abs/pii/S0020025515002960
 9. https://analyticsindiamag.com/a-guide-to-inferencing-with-bayesian-network-in-python/
 10. https://github.com/hayesall/bn-rule-extraction
-11. https://starling.utdallas.edu/papers/QuaKE/#fn:3
+11. [Probabilistic Approach to Extract Qualitative Knowledge](https://starling.utdallas.edu/papers/QuaKE/#fn:3)
 12. https://saturncloud.io/blog/evaluating-logistic-regression-with-crossvalidation/
 13. https://github.com/stelladeecoder/sba_dataset/blob/main/sba.ipynb
 14. feature engineering
