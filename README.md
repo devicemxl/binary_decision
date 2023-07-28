@@ -1,4 +1,4 @@
-<center>
+ <center>
 
 # Should This Loan be Approved or Denied?
 
@@ -16,8 +16,8 @@ For this case-study assignment, students assume the role of loan officer at a ba
 | Stage | Description | Output | Working Docs / Notebooks |
 |----|----|----|----|
 | **Project Setup** | Project proposal, High level planning | [Project Proposal]()  <br>  | [high level planning docs]() <br> |
-| **Data Wrangling** | Data Adquisition, Inspection of the structure and EDA | [Primary Data Report]() <br> [Tableau: EDA Insights]() | [Wrangling]() <br> - Data Understanding <br> - Conceptualization as Database <br> - Data Preprocess <br> - EDA: Univariate <br> - EDA: Bivariate <br> - EDA: Multivariate |
-| **Feature Engineering** | Data Imputation, Data Enrichment & Feature Engineering |  [Qualitative Report]()   | [Feature Engineering]() <br> - Data Imputation: Geographic Data <br> - Data Enrichment: Recession <br> - Feature Engineering <br> Interpretable Rules: Bayesian Networks|
+| **ETL I** | Data Adquisition, Inspection of the structure and EDA | [Primary Data Report]() <br> [Tableau: EDA Insights]() | [Wrangling]() <br> - Data Understanding <br> - Conceptualization as Database <br> - Data Preprocess <br> - EDA: Univariate <br> - EDA: Bivariate <br> - EDA: Multivariate |
+| **ETL II** | Data Imputation, Data Enrichment & Feature Engineering |  [Qualitative Report]() <br> [Tableau: Primary Insights]() | [Feature Engineering]() <br> - Data Imputation: Geographic Data <br> - Data Enrichment: Recession <br> - Feature Engineering <br> Interpretable Rules: Bayesian Networks|
 | **Models** | Exploration of diverse data models | [Insights]() <br> [Draft - Prototype]() <br> | [Models]() <br> - Principal Factor Analysis <br> - Support Vector Machines <br> - Logistic <br> - Clusterings <br> - Random Trees <br> - Bayesian <br> - Necessary Condition Analysis |
 
 <!--
