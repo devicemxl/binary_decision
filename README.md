@@ -46,6 +46,10 @@ Aditional Data And Furter Reading:
 11. https://starling.utdallas.edu/papers/QuaKE/#fn:3
 12. https://saturncloud.io/blog/evaluating-logistic-regression-with-crossvalidation/
 13. https://github.com/stelladeecoder/sba_dataset/blob/main/sba.ipynb
+14. feature engineering
+   - [Trigonometric feature engineering](https://math.libretexts.org/Courses/Rio_Hondo/Math_175%3A_Plane_Trigonometry/02%3A_Graphing_Trigonometric_Functions/2.04%3A_Transformations_Sine_and_Cosine_Functions)
+   - https://feature-engine.trainindata.com/en/1.3.x/user_guide/creation/CyclicalFeatures.html
+   - https://scikit-learn.org/stable/auto_examples/applications/plot_cyclical_feature_engineering.html
   
 
 <!--
